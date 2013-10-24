@@ -1,0 +1,27 @@
+{
+  "name": "SinglePlatformJS",
+  "version": "0.0.0",
+  "description": "Simple example for SinglePlatform API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tangosource/SinglePlatformJS.git"
+  },
+  "keywords": [
+    "API",
+    "SinglePlatform"
+  ],
+   "dependencies" : {
+    "eyes" : "0.1.8",
+    "request": "2.27.0"
+  },
+   "devDependencies": {
+    "mocha": "1.13.0"
+  },
+  "author": "Narciso",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
