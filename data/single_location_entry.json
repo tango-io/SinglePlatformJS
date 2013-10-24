@@ -1,0 +1,62 @@
+{
+    "id": "island-prime",
+    "factualId": "71f291e0-bef8-012e-5614-003048cad9da",
+    "outOfBusiness": false,
+    "publishedAt": "2012-03-09 11:07:15",
+    "general": {
+        "name": "Island Prime",
+        "timeZone": "PST",
+        "desc": "Resting on stilts atop San Diego Bay overlooking the city skyline and Coronado, there’s nowhere better than Island Prime & C Level to experience quintessential San Diego.  \r\n\r\nIsland Prime and C Level are two concepts under one roof!  Enjoy the casual side at C Level for lunch where it is first come, first serve in our dining room, lanai and outside terrace.  Island Prime is open for dinner and reservations are recommended but NOT required.",
+        "website": "http://www.islandprime.com/"
+    },
+    "location": {
+        "address1": "880 Harbor Island Dr",
+        "address2": "",
+        "city": "San Diego",
+        "region": "CA",
+        "country": "US",
+        "postcode": "92101",
+        "longitude": -117.19415,
+        "latitude": 32.72494,
+        "state": "CA",
+        "zipCode": "92101"
+    },
+    "phones": {
+        "main": "619-298-6802",
+        "fax": null
+    },
+    "hours": {
+        "mon": {
+            "start": "11:30am",
+            "end": "12:00am"
+        },
+        "tue": {
+            "start": "11:30am",
+            "end": "12:00am"
+        },
+        "wed": {
+            "start": "11:30am",
+            "end": "12:00am"
+        },
+        "thu": {
+            "start": "11:30am",
+            "end": "12:00am"
+        },
+        "fri": {
+            "start": "11:30am",
+            "end": "12:00am"
+        },
+        "sat": {
+            "start": "11:30am",
+            "end": "12:00am"
+        },
+        "sun": {
+            "start": "11:30am",
+            "end": "12:00am"
+        },
+        "holidaySchedule": ""
+    },
+    "hasPhotos": true,
+    "businessType": "Restaurant",
+    "isOwnerVerified": true
+}
