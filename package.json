@@ -16,7 +16,8 @@
   ],
    "dependencies" : {
     "eyes" : "0.1.8",
-    "request": "2.27.0"
+    "request": "2.27.0",
+    "through": "2.3.4"
   },
    "devDependencies": {
     "mocha": "1.13.0"
